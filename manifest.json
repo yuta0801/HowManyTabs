@@ -1,0 +1,20 @@
+{
+	"manifest_version": 2,
+	"name": "How many tabs",
+	"description": "a Chrome extension to Tweet how many open tabs.",
+	"short_name": "HowManyTabs",
+	"version": "1.0.0",
+	"icons": {
+		"16": "icon/16.png",
+		"48": "icon/48.png",
+		"128": "icon/128.png"
+	},
+	"browser_action": {
+		"name": "Tweet how many open tabs"
+	},
+	"background": {
+		"scripts": [ "background.js" ],
+		"persistent": false
+	},
+	"permissions": [ "tabs" ]
+}
