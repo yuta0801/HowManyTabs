@@ -1,0 +1,11 @@
+{
+	"extName": {
+		"messages": "How many tabs"
+	},
+	"extDescription": {
+		"message": "Tweet how many open tabs."
+	},
+	"extTweetMsg": {
+		"messages": "I have winlen windows open tablen tabs."
+	}
+}

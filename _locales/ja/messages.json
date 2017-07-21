@@ -1,0 +1,11 @@
+{
+	"extName": {
+		"message": "How many tabs"
+	},
+	"extDescription": {
+		"message": "開いているタブの数をツイートします。"
+	},
+	"extTweetMsg": {
+		"message": "現在、winlen 個のウィンドウで、tablen 個のタブを開いています。"
+	}
+}
